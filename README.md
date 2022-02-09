@@ -29,6 +29,7 @@
 .dlmod https://raw.githubusercontent.com/vsecoder/ftg-modules/main/web2file.py # веб сайт в файл
 .dlmod https://raw.githubusercontent.com/vsecoder/ftg-modules/main/yoopay.py # генерируем страницу перевода
 .dlmod https://raw.githubusercontent.com/vsecoder/ftg-modules/main/youtube.py # скачиваем видео с ютуба
+.dlmod https://raw.githubusercontent.com/vsecoder/ftg-modules/main/Randomizer.py # рандомайзер
 ```
 
 ## P.S. модули собрал с разных истоников с некоторыми правками!!!
