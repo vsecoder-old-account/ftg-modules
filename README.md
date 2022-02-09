@@ -30,6 +30,7 @@
 .dlmod https://raw.githubusercontent.com/vsecoder/ftg-modules/main/yoopay.py # генерируем страницу перевода
 .dlmod https://raw.githubusercontent.com/vsecoder/ftg-modules/main/youtube.py # скачиваем видео с ютуба
 .dlmod https://raw.githubusercontent.com/vsecoder/ftg-modules/main/Randomizer.py # рандомайзер
+.dlmod https://raw.githubusercontent.com/vsecoder/ftg-modules/main/help.py # HELP design
 ```
 
 ## P.S. модули собрал с разных истоников с некоторыми правками!!!
