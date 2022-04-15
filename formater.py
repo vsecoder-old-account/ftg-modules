@@ -6,5 +6,5 @@ class TextFormatMod(loader.Module):
     """Автозамена""" 
     strings = {'name': 'Formater'} 
     @loader.owner
-    async def cucmd(self, message):
+    async def formatcmd(self, message):
         message.edit('test')
