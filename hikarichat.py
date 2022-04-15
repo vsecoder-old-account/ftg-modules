@@ -3976,12 +3976,12 @@ class HikariChatMod(loader.Module):
         self.api = api
         await api.init(client, db, self)
 
-        if self.api._inited:
-            for protection in self.api.variables["protections"]:
-                setattr(self, f"{protection}cmd", self.protection_template(protection))
-        else:
-            if not hasattr(self, "hikka"):
-                raise LoadError("This module is supported only by Hikka")
+        #if self.api._inited:
+            #for protection in self.api.variables["protections"]:
+                #setattr(self, f"{protection}cmd", self.protection_template(protection))
+        #else:
+            #if not hasattr(self, "hikka"):
+                #raise LoadError("This module is supported only by Hikka")
 
         for method_name in dir(self):
             if (
